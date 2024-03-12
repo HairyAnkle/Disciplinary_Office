@@ -35,7 +35,7 @@ The Disciplinary Office for Student project is a Java-based system that provides
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/HairyAnkle/Disciplinary_Office.git
 
 1. Open the project in your preferred Java IDE.
 
